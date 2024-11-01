@@ -4,6 +4,9 @@ title: Welcome to Quartz
 
 This is a blank Quartz installation.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+$$
+\gdef\foo#1{#1^2} \foo{y} + \foo{y}
+$$
 
 Add a little more LATEX
 
@@ -24,4 +27,8 @@ $$
       r
     \end{array}
   \!\!\right) = \frac{n!}{r!(n-r)!}
+$$
+
+$$
+\foo{y} + \foo{y}
 $$
