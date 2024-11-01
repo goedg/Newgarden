@@ -5,9 +5,9 @@ title: Welcome to Quartz
 This is a blank Quartz installation.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
-$$
-\gdef\foo#1{#1^2}
-$$
+$
+\def\foo#1{#1^2}
+$
 
 Add a little more KATEX
 
@@ -30,6 +30,6 @@ $$
   \!\!\right) = \frac{n!}{r!(n-r)!}
 $$
 
-$$
+$
 \foo{y} + \foo{y}
-$$
+$
