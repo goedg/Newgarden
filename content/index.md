@@ -6,7 +6,7 @@ This is a blank Quartz installation.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
 $$
-\def\foo#1{#1^2}
+\gdef\foo#1{#1^2}
 $$
 
 Add a little more KATEX
